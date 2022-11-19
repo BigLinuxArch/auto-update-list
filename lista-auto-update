@@ -1,8 +1,9 @@
 #FONTES
 ttf-comfortaa
 
-#DESKTOP-KDE
+#DESKTOP
 plasma5-applets-virtual-desktop-bar-git
+conky-lua-nv
 
 #GERENCIADOR-DE-PACOTES
 yay-bin

@@ -9,12 +9,12 @@ ttf-comfortaa
 
 #DESKTOP
 plasma5-applets-virtual-desktop-bar-git
-conky-lua-nv
+#conky-lua-nv
 
 #GERENCIADOR-DE-PACOTES
 yay-bin
 pamac-aur
-#trizen
+trizen
 #powerpill
 #paru
 

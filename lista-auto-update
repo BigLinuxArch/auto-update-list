@@ -1,6 +1,8 @@
 #COMUNS
 mingw-w64-pkg-config
 lib32-libgphoto2
+lib32-libexif
+lib32-gd
 
 #FONTES
 ttf-comfortaa

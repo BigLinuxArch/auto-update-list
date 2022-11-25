@@ -13,7 +13,7 @@ plasma5-applets-virtual-desktop-bar-git
 
 #GERENCIADOR-DE-PACOTES
 yay-bin
-pamac-aur
+#pamac-aur
 trizen
 #powerpill
 #paru

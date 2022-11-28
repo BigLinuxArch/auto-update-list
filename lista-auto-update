@@ -1,11 +1,11 @@
 #COMUNS
 mingw-w64-pkg-config
 python3-xcgf
+python3-xcpf
 python3-memoizedb
 pyalpm
 python-pyxdg
 python3-memoizedb
-python3-xcpf
 pm2ml
 
 

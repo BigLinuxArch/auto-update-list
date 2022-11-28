@@ -2,6 +2,7 @@
 mingw-w64-pkg-config
 pm2ml
 python3-xcgf
+python3-memoizedb
 python3-xcpf
 
 

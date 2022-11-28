@@ -1,5 +1,12 @@
 #COMUNS
 mingw-w64-pkg-config
+pm2ml
+python3-xcgf
+python3-xcpf
+
+
+
+
 #lib32-libgphoto2
 #lib32-libexif
 #lib32-gd

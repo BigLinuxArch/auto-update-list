@@ -1,15 +1,5 @@
 #COMUNS
 mingw-w64-pkg-config
-
-#PowerPil
-python3-xcgf
-python3-xcpf
-python3-memoizedb
-python-pyxdg
-pm2ml
-powerpil
-
-
 #lib32-libgphoto2
 #lib32-libexif
 #lib32-gd
@@ -25,8 +15,15 @@ plasma5-applets-virtual-desktop-bar-git
 yay-bin
 #pamac-aur
 trizen
-##powerpill
 #paru
+#PowerPill
+python3-xcgf
+python3-xcpf
+python3-memoizedb
+python-pyxdg
+pm2ml
+powerpill
+
 
 #INTERNET
 brave-bin

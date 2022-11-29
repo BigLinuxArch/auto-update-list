@@ -5,10 +5,9 @@ mingw-w64-pkg-config
 python3-xcgf
 ##python3-xcpf
 python3-memoizedb
-##pyalpm
+pyalpm
 python-pyxdg
 ##pm2ml
-python-pyxdg
 ##powerpil
 
 

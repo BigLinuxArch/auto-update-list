@@ -1,8 +1,5 @@
 #COMUNS
 mingw-w64-pkg-config
-#lib32-libgphoto2
-#lib32-libexif
-#lib32-gd
 
 #FONTES
 ttf-comfortaa
@@ -16,6 +13,7 @@ yay-bin
 #pamac-aur
 trizen
 #paru
+
 #PowerPill
 python3-xcgf
 python3-xcpf
@@ -24,12 +22,8 @@ python-pyxdg
 pm2ml
 powerpill
 
-
 #INTERNET
 brave-bin
-
-#WINDOWS
-#wine-stable
 
 #BIGLINUX-CLI
 bootsplash-systemd

@@ -30,3 +30,6 @@ brave-bin
 
 #WINDOWS
 #wine-stable
+
+#BIGLINUX-CLI
+bootsplash-systemd

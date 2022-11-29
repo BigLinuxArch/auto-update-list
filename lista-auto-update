@@ -9,7 +9,7 @@ ttf-comfortaa
 
 #DESKTOP
 plasma5-applets-virtual-desktop-bar-git
-#conky-lua-nv
+conky-lua-nv
 
 #GERENCIADOR-DE-PACOTES
 yay-bin
@@ -33,7 +33,7 @@ brave-bin
 
 #BIGLINUX-CLI
 bootsplash-systemd
-bootsplash-manager-bin
+#bootsplash-manager-bin
 
 timeshift
 

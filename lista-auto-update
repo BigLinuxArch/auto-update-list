@@ -38,9 +38,9 @@ bootsplash-manager-bin
 timeshift
 
 #bugado
-manjaro-tools-base
-grub-btrfs-timeshift
-debtap-mod
-biglinux-mime
-pamac-gtk
-pamac-cli
+#manjaro-tools-base
+#grub-btrfs-timeshift
+#debtap-mod
+#biglinux-mime
+#pamac-gtk
+#pamac-cli

@@ -1,14 +1,15 @@
 #COMUNS
 mingw-w64-pkg-config
+
+#PowerPil
 python3-xcgf
-python3-xcpf
+##python3-xcpf
 python3-memoizedb
-pyalpm
+##pyalpm
 python-pyxdg
-python3-memoizedb
-pm2ml
-
-
+##pm2ml
+python-pyxdg
+##powerpil
 
 
 #lib32-libgphoto2
@@ -26,7 +27,7 @@ plasma5-applets-virtual-desktop-bar-git
 yay-bin
 #pamac-aur
 trizen
-powerpill
+##powerpill
 #paru
 
 #INTERNET

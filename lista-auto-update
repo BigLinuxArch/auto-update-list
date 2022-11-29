@@ -3,9 +3,8 @@ mingw-w64-pkg-config
 
 #PowerPil
 python3-xcgf
-##python3-xcpf
+python3-xcpf
 python3-memoizedb
-pyalpm
 python-pyxdg
 ##pm2ml
 ##powerpil

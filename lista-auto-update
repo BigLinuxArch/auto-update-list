@@ -28,7 +28,7 @@ brave-bin
 bootsplash-systemd
 #bootsplash-manager-bin
 
-timeshift
+timeshift-bin
 
 #bugado
 #manjaro-tools-base

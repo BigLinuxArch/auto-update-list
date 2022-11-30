@@ -12,9 +12,21 @@ yay-bin
 trizen
 #paru
 
-libpamac-aur
+##Pamac-AUR
+#libpamac-aur
 #pamac-aur
 
+##Pamac-ALL
+#archlinux-appstream-data-pamac
+#snapd-glib
+#snapd
+#libpamac-full
+#pamac-all
+
+##Pamac-NoSnap
+archlinux-appstream-data-pamac
+libpamac-nosnap
+pamac-nosnap
 
 #PowerPill
 python3-xcgf

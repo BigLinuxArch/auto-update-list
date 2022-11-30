@@ -12,10 +12,7 @@ yay-bin
 trizen
 #paru
 
-archlinux-appstream-data-pamac
-snapd-glib
-snapd
-#libpamac-full
+libpamac-aur
 #pamac-aur
 
 

@@ -53,3 +53,6 @@ timeshift-bin
 #biglinux-mime
 #pamac-gtk
 #pamac-cli
+
+#Ventoy
+ventoy-bin

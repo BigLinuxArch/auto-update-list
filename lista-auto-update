@@ -18,11 +18,11 @@ libpamac-aur
 pamac-aur
 
 ##Pamac-ALL
-archlinux-appstream-data-pamac
-snapd-glib
-snapd
-libpamac-full
-pamac-all
+#archlinux-appstream-data-pamac
+#snapd-glib
+#snapd
+#libpamac-full
+#pamac-all
 
 ##Pamac-NoSnap
 archlinux-appstream-data-pamac

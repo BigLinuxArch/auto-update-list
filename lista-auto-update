@@ -18,13 +18,6 @@ paru
 libpamac-aur
 pamac-aur
 
-##Pamac-ALL
-#archlinux-appstream-data-pamac
-#snapd-glib
-#snapd
-#libpamac-full
-#pamac-all
-
 ##Pamac-NoSnap
 archlinux-appstream-data-pamac
 libpamac-nosnap
@@ -49,3 +42,6 @@ timeshift-bin
 
 #Ventoy
 ventoy-bin
+
+#VS-CODE
+visual-studio-code-bin

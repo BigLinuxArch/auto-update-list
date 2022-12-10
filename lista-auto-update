@@ -7,11 +7,12 @@ ttf-comfortaa
 #DESKTOP
 plasma5-applets-virtual-desktop-bar-git
 breeze-extended
+archlinux-tweak-tool-git
 
 #GERENCIADOR-DE-PACOTES
 yay-bin
 trizen
-#paru
+paru
 
 ##Pamac-AUR
 libpamac-aur
@@ -45,14 +46,6 @@ bootsplash-systemd
 #bootsplash-manager-bin
 
 timeshift-bin
-
-#bugado
-#manjaro-tools-base
-#grub-btrfs-timeshift
-#debtap-mod
-#biglinux-mime
-#pamac-gtk
-#pamac-cli
 
 #Ventoy
 ventoy-bin
